@@ -23,6 +23,7 @@ namespace ConsoleApp2
             Queue<T> temp = queue1;
             queue1 = queue2;
             queue2 = temp;
+
         }
         
         public T Pop()
