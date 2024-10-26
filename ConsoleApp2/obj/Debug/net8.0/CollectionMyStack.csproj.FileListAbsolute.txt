@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\CollectionMyStack.exe
+C:\Users\PC\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\CollectionMyStack.deps.json
+C:\Users\PC\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\CollectionMyStack.runtimeconfig.json
+C:\Users\PC\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\CollectionMyStack.dll
+C:\Users\PC\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\CollectionMyStack.pdb
+C:\Users\PC\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\CollectionMyStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\CollectionMyStack.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\CollectionMyStack.AssemblyInfo.cs
+C:\Users\PC\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\CollectionMyStack.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\CollectionMyStack.dll
+C:\Users\PC\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\refint\CollectionMyStack.dll
+C:\Users\PC\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\CollectionMyStack.pdb
+C:\Users\PC\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\CollectionMyStack.genruntimeconfig.cache
+C:\Users\PC\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ref\CollectionMyStack.dll
